@@ -1,0 +1,30 @@
+*{
+  /*border: 1px solid black;*/
+}
+header{
+  height: 350px;
+  background-color: #F39800;
+}
+#say{
+  font-family: cursive;
+  text-align: center;
+}
+.fix-width{
+  max-width: 100%;
+  border-radius: 10%;
+  background-color: #FDD000;
+  border: 5px solid #FDD000;
+}
+hr{
+  border: 1px solid #444444;
+}
+
+#avatar{
+  border: 1px solid #FDD000;
+  border-radius: 50%;
+  padding: 5px;
+  background-color: #FDD000;
+  margin-top: -100px;
+  width: 200px;
+  height: 200px;
+}
